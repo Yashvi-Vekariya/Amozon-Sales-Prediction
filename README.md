@@ -95,26 +95,4 @@ The **Amazon Sales Data Analysis** project successfully progressed from initial 
 - Tableau (for dashboard visualization)
 - Flask (for web application development)
 
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/carinadesouza/Analyzing-Amazon-Sales-data-Project.git
-2.  Navigate to the project directory:
-```bash
-  cd amazon-sales-analysis
-```
-
-3.Install the required packages:
-```bash
-pip install -r requirements.txt
-```
-
-4.Start the Flask application:
-```bash
-python app.py
-Access the application at http://127.0.0.1:5000.
-```
-
-
 
